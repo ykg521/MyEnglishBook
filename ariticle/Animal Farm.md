@@ -1,7 +1,7 @@
 ---
 langr: xx
 langr-origin: 《动物庄园》
-langr-pos: "5"
+langr-pos: "1"
 ---
 
 Title:      Animal Farm
@@ -675,8 +675,25 @@ THE END
 
 
 ^^^words
-+ **comrades** : Your comrades are your friends, especially friends that you share a difficult or dangerous situation with. 
-+ **contact** : the act of communicating with somebody, especially regularly
++ **[[bonfire]]** : A bonfire is a fire that is made outdoors, usually to burn waste. Bonfires are also sometimes lit as part of a celebration.
++ **[[comrades]]** : Your comrades are your friends, especially friends that you share a difficult or dangerous situation with. 
++ **[[contact]]** : the act of communicating with somebody, especially regularly
++ **[[dared]]** : If you do not dare to do something, you do not have enough courage to do it, or you do not want to do it because you fear the consequences. If you dare to do something, you do something which requires a lot of courage. 敢于
++ **[[hummed]]** : If something hums, it makes a low continuous noise. 
++ **[[nonsense]]** : If you say that something spoken or written is nonsense, you mean that you consider it to be untrue or silly.
++ **[[noticed]]** : If you notice something or someone, you become aware of them.
++ **[[rejoice]]** : If you rejoice, you are very pleased about something and you show it in your behaviour.
++ **[[sharply]]** : quickly and suddenly
+adv. 严厉地，尖锐地；急剧地，突然大幅度地；鲜明地，明显地；迅疾而突然地，急促而大声地；锋利地；敏锐地；时髦地
++ **[[shocked]]** : If you have a shock, something suddenly happens which is unpleasant, upsetting, or very surprising
+adj. 吃惊的，震惊的；愤慨的，十分厌恶的
+v. 使震惊，使惊愕；（使）生气，（使）不快；使生理休克，使受电击（shock 的过去式和过去分词形式）
++ **[[slammed]]** : If you slam a door or window or if it slams, it shuts noisily and with great force. 
+砰地关上; 使劲关上
++ **[[staring]]** : looking at something for a long time with the eyes wide open, especially when surprised, frightened, or thinking
+瞪着的
++ **[[stiffly]]** : straight and not bending
+笔挺地；僵直地
 
 ^^^notes
 
