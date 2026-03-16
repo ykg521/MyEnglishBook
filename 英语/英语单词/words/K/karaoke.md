@@ -4,15 +4,16 @@ tags:
   - 级别/高考四级
 掌握: false
 模糊: false
-间隔: 0
-重复次数: 0
-易记因子: 250
-到期日: 2025-04-30
+间隔: 1
+重复次数: 1
+易记因子: 204
+到期日: 2026-04-11
 ---
 # karaoke
 ##### 词义
 - 英：/ ˌkæriˈəʊki /；美：/ ˌkæriˈoʊki /；
 - #词性/n 卡拉 OK; 卡拉 OK 录音，自动伴奏录音
+- #联想 [[orchestra]] 
 ##### 例句
 - The tempo can be adjusted manually on conventional karaoke machines, but the new product is the first machine to do it automatically.
 	- 传统的卡拉 OK 机可以手动调节节奏，但这款新产品是第一台可以自动调节节奏的机器。

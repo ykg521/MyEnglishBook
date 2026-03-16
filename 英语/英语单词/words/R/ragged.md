@@ -4,16 +4,17 @@ tags:
   - 级别/高考四级
 掌握: false
 模糊: false
-间隔: 0
-重复次数: 0
-易记因子: 250
-到期日: 2025-04-30
+间隔: 1
+重复次数: 1
+易记因子: 140
+到期日: 2026-04-10
 ---
 # ragged
 ##### 词义
 - 英：/ˈræɡɪd/； 美：/ˈræɡɪd/
 - #词性/adj  衣衫褴褛的；褴褛的；破旧的；(轮廓线、边缘或表面)粗糙的，参差不齐的，不规则的；破衣烂衫的；精疲力竭的；不流畅的
 - #词性/v  嘲笑；捉弄
+- #联想 [[rag]] [[ragged]] [[raggedly]]
 ##### 例句
 - I selected that one and headed to the backyard , grabbing a ragged old quilt from the linen cupboard at the top of the stairs on my way down .
 	- 我挑出那本书，向后院走去，下楼的时候顺手从楼梯顶上的亚麻布衣橱里抓了一条破旧的褥子。

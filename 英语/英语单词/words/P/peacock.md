@@ -4,15 +4,16 @@ tags:
   - 级别/六级
 掌握: false
 模糊: false
-间隔: 0
-重复次数: 0
-易记因子: 250
-到期日: 2025-04-30
+间隔: 1
+重复次数: 1
+易记因子: 130
+到期日: 2026-04-12
 ---
 # peacock
 ##### 词义
 - 英：/ˈpiːkɒk/； 美：/ˈpiːkɑːk/
 - #词性/n  雄孔雀
+- #联想 [[pea]] [[peacock]]
 ##### 例句
 - Male peacock has a beautiful long tail feathers , this is a pride thing .
 	- 雄孔雀有着美丽的长尾羽，这本来是一件值得骄傲的事。

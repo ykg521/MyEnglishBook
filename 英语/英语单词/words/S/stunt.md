@@ -15,6 +15,7 @@ tags:
 - 英：/stʌnt/； 美：/stʌnt/
 - #词性/n  特技；噱头；(尤指电影中的)特技表演；愚蠢行为；危险举动；意在引人注意的花招
 - #词性/vt  妨碍发展；遏制
+- #联想 [[stunt]] n.特技；vt.遏制 [[stun]] vt.使震惊; n.震惊 [[stunning]] adj.惊人的；v.使震惊
 ##### 例句
 - The British stunt man Eddie Kidd jumped over the Great Wall of China on a motorcycle .
 	- 英国特技表演者埃迪·基德骑摩托车飞越了中国长城。

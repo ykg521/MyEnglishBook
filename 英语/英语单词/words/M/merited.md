@@ -14,6 +14,7 @@ tags:
 - 英：/ˈmerɪtɪd/； 美：/ˈmerɪtɪd/
 - #词性/adj 应得的；理所当然的
 - #词性/v  值得，应受（merit 的过去式及过去分词）
+- #联想 [[merit]] [[demerit]] [[merited]] [[meritorious]]
 ##### 例句
 - This " wage premium " reflects the extent to which workers have been able to extract more pay than is merited by their qualifications .
 	- 这一“工资溢价”反映的是工人所获得的薪酬要比其能力所应得的多出多少。

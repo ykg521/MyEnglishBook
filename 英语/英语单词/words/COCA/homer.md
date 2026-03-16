@@ -1,0 +1,15 @@
+---
+tags:
+  - COCA2w
+掌握: false
+模糊: false
+间隔: 0
+重复次数: 0
+易记因子: 250
+到期日: 2025-04-30
+---
+# homer
+
+## N-COUNT
+同home run A homer is the same as a .
+

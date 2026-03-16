@@ -12,6 +12,7 @@ tags:
 # secretin
 ##### 词义
 - #词性/n  胰泌素；促胰液素；分泌素；肠促胰激素；肠促胰液素
+- #联想 [[secret]] [[secrete]] [[secretin]]
 ##### 例句
 - Secretin Test and Its Application
 	- 胰泌素试验测定方法及其临床应用

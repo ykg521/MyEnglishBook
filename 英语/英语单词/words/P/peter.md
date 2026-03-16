@@ -15,6 +15,7 @@ tags:
 - #词性/vi  渐渐枯竭【消失】；逐渐减少
 - #词性/vt  使…精疲力竭
 - #词性/n  麻醉品；保险箱
+- #联想 [[peter out]]
 ##### 例句
 - And the influx of Asian students to America may peter out .
 	- 并且，亚洲学生的申请人数可能也会逐渐减少。

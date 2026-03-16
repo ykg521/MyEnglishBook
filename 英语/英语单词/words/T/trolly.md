@@ -4,14 +4,15 @@ tags:
   - 级别/考研
 掌握: false
 模糊: false
-间隔: 0
-重复次数: 0
-易记因子: 250
-到期日: 2025-04-30
+间隔: 1
+重复次数: 1
+易记因子: 204
+到期日: 2026-04-04
 ---
 # trolly
 ##### 词义
 - #词性/n  手推车；手推车，货车
+- #联想 [[troll]] [[trolley]] [[trolly]] [[trolleybus]]
 ##### 例句
 - Selection of electric circuitry of trolly wire and positioning electric pole
 	- 山区架空电力线路的路径选择和杆塔定位

@@ -4,15 +4,16 @@ tags:
   - 级别/六级
 掌握: false
 模糊: false
-间隔: 0
-重复次数: 0
-易记因子: 250
-到期日: 2025-04-30
+间隔: 1
+重复次数: 1
+易记因子: 140
+到期日: 2026-04-08
 ---
 # bushel
 ##### 词义
 - 英：/ˈbʊʃl/； 美：/ˈbʊʃl/
 - #词性/n  很多；大量；蒲式耳(谷物和水果的容量单位，相当于8加仑)
+- #联想 [[bushel]] [[bush]]
 ##### 例句
 - Some people feel it is better for college students to have more common sense because they believe that a peck of common sense is worth a bushel of learning .
 	- 有些人认为大学生最好有更多的常识，因为他们相信少量的常识胜过大量的学问。

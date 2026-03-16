@@ -5,16 +5,17 @@ tags:
   - 级别/GRE
 掌握: false
 模糊: false
-间隔: 0
-重复次数: 0
-易记因子: 250
-到期日: 2025-04-30
+间隔: 1
+重复次数: 1
+易记因子: 140
+到期日: 2026-04-08
 ---
 # sneer
 ##### 词义
 - 英：/snɪə(r)/； 美：/snɪr/
 - #词性/v  嘲笑；讥讽；嗤笑
 - #词性/n  嘲笑；讥讽
+- #联想 [[sneer]] v.嘲笑；n.嘲笑 [[sneeze]] v.打喷嚏
 ##### 例句
 - There is too great a readiness to sneer at anything the Opposition does
 	- 对反对党的任何举动都想加以嘲笑的心理过于急切了。

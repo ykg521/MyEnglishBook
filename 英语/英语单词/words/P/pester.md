@@ -5,15 +5,16 @@ tags:
   - 级别/GRE
 掌握: false
 模糊: false
-间隔: 0
-重复次数: 0
-易记因子: 250
-到期日: 2025-04-30
+间隔: 1
+重复次数: 1
+易记因子: 140
+到期日: 2026-04-10
 ---
 # pester
 ##### 词义
 - 英：/ˈpestə(r)/； 美：/ˈpestər/
 - #词性/v  不断打扰，纠缠，烦扰；<废>使塞满，使挤满
+- #联想 [[pest]] n.害虫；有害动物; [[pester]] v.不断打扰，纠缠，烦扰
 ##### 例句
 - Pester greatly increases the attack speed of the bird at the cost of dealing less damage .
 	- 纠缠大大增加鸟类的攻击速度，但攻击造成的伤害减少。

@@ -5,10 +5,10 @@ tags:
   - 级别/托福
 掌握: false
 模糊: false
-间隔: 0
+间隔: 1
 重复次数: 0
-易记因子: 250
-到期日: 2025-04-30
+易记因子: 154
+到期日: 2026-04-12
 ---
 # agonize
 ##### 词义
@@ -26,3 +26,18 @@ tags:
 - #形态/word_ing agonizing
 - #形态/word_done agonized
 - #形态/word_past agonized
+
+##### 近义词
+v. pain, anguish, hurt, suffer
+##### 联想词
+ponder仔细考虑;
+contemplate深思, 细想, 仔细考虑;
+fret烦恼;
+lament悲叹;
+worry烦恼;
+obsessively使人着迷地;
+decide决定;
+cringe畏缩;
+weep哭泣;
+rationalize使合理化;
+excruciating极为疼痛的;

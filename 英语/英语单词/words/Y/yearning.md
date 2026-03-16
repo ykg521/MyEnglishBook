@@ -4,10 +4,10 @@ tags:
   - 级别/六级
 掌握: false
 模糊: false
-间隔: 0
-重复次数: 0
-易记因子: 250
-到期日: 2025-04-30
+间隔: 6
+重复次数: 2
+易记因子: 226
+到期日: 2026-04-07
 ---
 # yearning
 ##### 词义
@@ -25,3 +25,27 @@ tags:
 ##### 形态
 - #形态/word_proto yearn
 - #形态/word_pl yearnings
+
+##### [搭配]ADJ.
+deep, desperate, enormous, great , passionate
+深深的渴望；急切的渴望；无限的向往；强烈的渴望
+romantic
+不切实际的向往
+##### [搭配]VERB + YEARNING
+feel, have
+渴求；心里渴望
+express
+表达迫切的希望
+##### [搭配]PREP.
+with (a) ~
+渴望地:
+He looked at her with yearning.
+他渴慕地看着她。
+~ after
+渴想过去的事:
+He felt a great yearning after his old job.
+他对过去的工作有一种强烈的渴想。
+~ for
+渴念…:
+They had a deep yearning for their homeland.
+当时他们渴念着故乡。

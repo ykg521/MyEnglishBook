@@ -7,10 +7,10 @@ tags:
   - 级别/GRE
 掌握: false
 模糊: false
-间隔: 0
-重复次数: 0
-易记因子: 250
-到期日: 2025-04-30
+间隔: 6
+重复次数: 2
+易记因子: 248
+到期日: 2026-04-07
 ---
 # glamor
 ##### 词义
@@ -23,3 +23,22 @@ tags:
 	- 文化彰显魅力！文化北京、典藏世界。
 - Foreign travel has lost its glamor for her .
 	- 国外旅行对她已失去吸引力了。
+
+##### 近义词
+n. beauty
+n. charm
+n. attraction
+n. appeal
+ 
+##### 联想词
+glamour魅力，魔力;
+glamorous富有魅力的;
+allure吸引;
+elegance典雅;
+sensuality喜爱感官享受;
+beauty美;
+splendor光彩;
+trappings服饰;
+femininity妇女特质,柔弱性,温柔;
+sparkle发火花, 闪耀;
+sophistication老练;

@@ -14,6 +14,7 @@ tags:
 - 英：/læˈsuː/； 美：/ˈlæsoʊ/
 - #词性/n  (捕马、套牛等用的)套索
 - #词性/vt  用套索套捕(动物)
+- #联想 [[lass]] [[lady]] [[lasso]]
 ##### 例句
 - And , I really don 't get the point of this cup lasso ?
 	- 而且，我真的没有得到这个杯子套索点？

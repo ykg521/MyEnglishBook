@@ -4,16 +4,17 @@ tags:
   - 级别/高考四级
 掌握: false
 模糊: false
-间隔: 0
-重复次数: 0
-易记因子: 250
-到期日: 2025-04-30
+间隔: 1
+重复次数: 1
+易记因子: 172
+到期日: 2026-04-11
 ---
 # coral
 ##### 词义
 - 英：/ˈkɒrəl/； 美：/ˈkɔːrəl/
 - #词性/n  珊瑚；珊瑚虫
 - #词性/adj  珊瑚色的；红色的；粉红的
+- #联想 [[chorale]] [[choral]] [[coral]]
 ##### 例句
 - Oil pollution could damage the fragile ecology of the coral reefs .
 	- 石油污染可能破坏珊瑚礁脆弱的生态环境。

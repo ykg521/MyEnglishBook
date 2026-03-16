@@ -1,0 +1,43 @@
+We **crunch** the house-price data across every county-with surprising results
+
+【1】For years new homebuyers in America have enjoyed lower housing costs than **renters**. Between 2011 and 2020 the monthly **mortgage** payment on a typical home was 12% lower than the **rental** for a similar **property** (**assuming** a **deposit** of 13%, the current national average). A **steady** rise in home values, worth roughly 7% a year over the past decade, also ensured that buyers built **equity** in their homes. But, as our maps below show, today the choice between buying and **renting** looks different.
+
+【2】Blame high house prices and **soaring** **mortgage** rates. Since 2020 **nominal** house prices have climbed by roughly 40%, while the average 30-year fixed-rate **mortgage** rose from 3.1% to 7.3%. **nominal** **mortgage** payments have more than doubled since 2020; rents have **risen** by only about 20%. By our **calculations**, for 89% of Americans **renting** a two-bedroom place is now cheaper than buying a **comparable** **property**. Three years ago the figure was 16%.
+
+【3】Our **calculations** do not cover long-term **potential** costs and **benefits**, such as **outlays** on **maintenance**, the asset value of a home once a **mortgage** has been paid off, or the opportunity cost of investing in a **deposit** for a house rather than, say, the stockmarket. But they do show how the relative costs of buying and **renting** have been upended in much of America. To restore the ownership advantage that **prevailed** in the 2010s would require **dramatic** shifts in market **conditions**: house prices would have to **tumble** by one-third, average **mortgage** rates would have to fall to 3.2% or **rental** costs rise by at least 50%.
+ 
+【4】None of these outcomes seems likely. House prices are not expected to crash: Goldman Sachs, a bank, **forecasts** that they will **appreciate** by 1.9% in 2024 and 2.8% in 2025. Mortgages are expected to stay **pricey**, too. Goldman **predicts** that 30-year **mortgage** rates will **dip**, but not by much: to 7.1% by the end of 2024 and 6.6% by the end of 2025. Rents, meanwhile, seem unlikely to climb much, owing to a **glut** of newly built apartments and weak **demand**.
+ 
+【5】Even in the few markets where homes still look **relatively** cheap—such as Baltimore, Philadelphia and the Bronx, in New York City—most homeowners are **reluctant** to sell. Nearly all have **locked** in **mortgage** rates that are much lower than those available to new borrowers. More than four in five existing **mortgage**-**holders** pay an interest rate under 5%, according to Torsten Slok of Apollo, a private-**equity** firm. So market **conditions** seem likely to put off millions of **potential** buyers and sellers of houses. For many, **renting** will increasingly look like the **affordable** option.
+
+【1】多年来，美国新购房者享受的住房成本一直低于租房者。2011年至2020年间，典型住房的月度抵押贷款还款额比类似房产的租金低12%（假设首付比例为13%，即当前的全国平均水平）。过去十年间，房产价值稳步上涨，年均涨幅约为7%，这也确保了购房者能在房产中积累资产净值。但是，正如下方地图所示，如今在买房和租房之间做出的选择已大不相同。
+回译版
+The new housebuyers in Amrican were enjoied low cost than renters in years. Between 2011 and 2020, a typical house cost of monthly mortgate is low 12% than similar property of renting(assuming down payment is 13%, that current national average). A steady rose in past decade, approximate 7% increase for a year, it ensured housebuers accumulate value of asset. But, as a map blew, the choise now between housebuyers and renters are different.
+AI修改版：
+For years, new **homebuyers** in America have enjoyed lower housing costs than renters. Between 2011 and 2020, the monthly mortgage payment on a typical house  was 12% lower than the rental for a similar property (assuming a deposit of 13%, the current national average). A steady rise in house values, worth roughly 7% a year over the past decade, also ensured that **homebuyers** built equity in their homes. But, as our map below shows, today the choice between buying and renting is different.
+
+【2】这要归咎于高房价和飙升的抵押贷款利率。自2020年以来，名义房价上涨了约40%，而30年期固定利率抵押贷款的平均利率则从3.1%上升到了7.3%。自2020年以来，名义抵押贷款还款额增加了一倍多；而租金仅上涨了约20%。根据我们的计算，对于89%的美国人来说，现在租一套两居室的房子比买一套类似的房子更便宜。而在三年前，这一比例仅为16%。
+回译版
+Blame high house price and soaring mortgage. nominal house price increase approximate 40% since 2020, or average mortage of 30 years fixing-rate mortage increase from 3.1% to 7.3%. nominal mortage payment doubled since 2020; rent rise roughly 20%. According our accumulate, 89% of American of renting a two room of house is cheaper than buying similar one today. But three years ago, this rate only 16%.
+AI修改版
+Blame high house prices and soaring mortgage rates. Nominal house prices had climbed approximately 40% since 2020, while the average 30-years fixed-rate mortgage rose from 3.1% to 7.3%. Nominal mortage payment have more than doubled since 2020; rents have risen by only roughly 20%. According our calculation, for the 89% of Americans, renting a two-bedroom home is now cheaper than buying a comparable property. But three years ago, this figure was only 16%.
+
+【3】我们的计算并未涵盖长期的潜在成本和收益，例如房屋维护支出、还清抵押贷款后的房屋资产价值，或者将资金用于购房首付而非（比如说）投资股市的机会成本。但是，这些数据确实表明，在美国大部分地区，购房和租房的相对成本关系已经发生了颠覆性的变化。想要恢复2010年代那种购房优势，需要市场状况发生剧烈转变：房价必须暴跌三分之一，平均抵押贷款利率必须降至3.2%，或者租金成本至少上涨50%。
+回译版
+Our calculation did not cover long-term potical costs and benefices: such  as cost of house maintaining, a asset of value expected poverty, or as deposit for house more than, says, the stockmarket. Hoever, these data ensured show, buying and renting relative cost had been upended in the most of American. To restore advantage of buying house, if the market turned violently: house prices would have to drop of one-third, average of mortgage rate would have to fall to 3.2%, or rent cost would increase 50%.
+AI修正版
+Our calculations do not cover long-term potential costs and benefits, such as outlays on maintenance, the asset value of a home once a mortgage has been paid off, or the opportunity cost of investing in a deposit for a house rather than, say, the stockmarket. However, the data do show how the relative costs of buying and renting have been upended in much of America. To restore the ownership advantage that prevailed in the 2010s would require dramatic shifts in market conditions: house prices would have to tumble by one-third, average mortgage rates would have to fall to 3.2% or rental costs rise by at least 50%.
+
+【4】这些结果似乎都不太可能发生。房价预计不会崩盘：银行高盛预测，房价在2024年将上涨1.9%，2025年将上涨2.8%。抵押贷款预计也将保持昂贵。高盛预测，30年期抵押贷款利率会有所下降，但幅度不大：到2024年底降至7.1%，到2025年底降至6.6%。与此同时，由于新建公寓供应过剩且需求疲软，租金似乎也不太可能大幅上涨。
+回译版
+These reuslts seem unlikely happened. the prophet for house price will not tumble: predict by Goldman Sachs's bank，house price increase 1.9% in 2024, 2.8% in 2025. mortgage are also maintained expensively. 30-years fixed-rates of mortgage will dip, by Goldman Sachs: the house price dip from 7.1% in 2024 to 6.6 in 2025. Meanwhile, rents increase unlikely due to new build apartments are too much and weak demand.  
+AI矫正版
+**None of these outcomes seems likely**. House prices are not expected to tumble: Goldman Sachs forecasts that they will rise by 1.9% in 2024 and 2.8% in 2025. **Mortgage rates are also expected to remain expensive.** Goldman Sachs predicts that 30-year fixed mortgage rates will dip, but only slightly: falling to 7.1% by the end of 2024 and 6.6% by the end of 2025. Meanwhile, rents are unlikely to rise significantly due to an oversupply of new apartments and weak demand.
+
+【5】即使在少数房屋看起来仍然相对便宜的市场——例如巴尔的摩、费城和纽约市的布朗克斯区——大多数房主也不愿出售房产。几乎所有房主都锁定了远低于新借款人所能获得的抵押贷款利率。私募股权公司阿波罗的托尔斯滕·斯洛克表示，超过五分之四的现有抵押贷款持有者支付的利率低于5%。因此，市场状况似乎可能会让数以百万计的潜在房屋买卖者望而却步。对于许多人来说，租房将日益成为一种负担得起的选择。
+
+回译版
+Even if few houses still seem likely cheaper--such as Baltimore, Philadelphia, Brox-in New York--most householder did not want to sell property. almost all houseowner have locked in mortgage rates far below than those available to new. Torsten Slok, a private equity named Apollo says, more than four-five of mortgage rates less than 5%. **Consequently, market conditions seem likely to deter millions of would-be buyers. For many, renting will increasingly become an affordable option.**
+
+AI修改版
+Even in the few markets where homes still appear relatively affordable—such as Baltimore, Philadelphia, and the Bronx in New York—most homeowners are unwilling to sell. Almost all homeowners have locked in mortgage rates far below those available to new borrowers. Torsten Slok, of the private-equity firm Apollo, says that more than four-fifths of existing mortgages carry rates below 5%. **Consequently, market conditions seem likely to deter millions of would-be buyers. For many, renting will increasingly become an affordable option.**

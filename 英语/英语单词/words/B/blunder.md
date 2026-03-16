@@ -6,10 +6,10 @@ tags:
   - 级别/GRE
 掌握: false
 模糊: false
-间隔: 0
+间隔: 1
 重复次数: 0
-易记因子: 250
-到期日: 2025-04-30
+易记因子: 218
+到期日: 2026-04-12
 ---
 # blunder
 ##### 词义
@@ -29,3 +29,14 @@ tags:
 - #形态/word_done blundered
 - #形态/word_pl blunders
 - #形态/word_past blundered
+##### 联想
+[[blind]]
+adj. 瞎的；盲目的 adv. 看不见地；盲目地
+[[bound]]
+vi. 跳；弹回 vt. 给…划界，限制 n. 跳，跳跃，跃进；界限，范围 adj. 被捆绑的，被束缚的
+[[blond]]
+adj. 金发的 n. 白肤碧眼金发的人
+[[blunt]]
+adj. 钝的，不锋利的；生硬的；直率的 vt. 使迟钝
+[[blend]]
+vt. 混合 vi. 混合；协调

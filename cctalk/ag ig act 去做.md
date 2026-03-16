@@ -12,8 +12,6 @@ reaction [riˈækʃn] ion 名词后缀 反应
 reactor [riˈæktə(r)] or 代表⼈或物， 反应的⼈ 反应器
 transact [trænˈzækt] 交易 trans = 往返 through 同源，th = t ，transport 运输 运送
 transaction [trænˈzækʃn] tion 名词 交易
-
 ```query
-agent
-
+path:etyma_words/A/agent
 ```

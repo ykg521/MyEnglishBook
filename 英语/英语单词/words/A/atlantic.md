@@ -4,16 +4,17 @@ tags:
   - 级别/中考
 掌握: false
 模糊: false
-间隔: 0
-重复次数: 0
-易记因子: 250
-到期日: 2025-04-30
+间隔: 1
+重复次数: 1
+易记因子: 140
+到期日: 2026-04-10
 ---
 # atlantic
 ##### 词义
 - 英：/ətˈlæntɪk/； 美：/ətˈlæntɪk/
 - #词性/n  大西洋
 - #词性/adj  大西洋的；巨人阿特拉斯  的
+- #联想 the pacific/atlantic/indian/arctic/southern ocean
 ##### 例句
 - She had the distinction of being the first woman to fly the Atlantic .
 	- 她不同凡响，是第一个飞越大西洋的女子。

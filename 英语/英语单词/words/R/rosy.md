@@ -4,16 +4,18 @@ tags:
   - 级别/高考四级
 掌握: false
 模糊: false
-间隔: 0
+间隔: 1
 重复次数: 0
-易记因子: 250
-到期日: 2025-04-30
+易记因子: 186
+到期日: 2026-04-11
 ---
 # rosy
 ##### 词义
 - 英：/ˈrəʊzi/； 美：/ˈroʊzi/
 - #词性/adj  乐观的；红润的；美好的；粉红色的
 - #词性/n  女子名
+- #说明 音变red=rosy
+- #联想 [[redden]] v.变红; [[red]] adj.红色的; n.红色
 ##### 例句
 - The lofty house which formed the back of the barricade , being turned to the East , had upon its roof a rosy reflection .
 	- 街垒后面的那所高楼是向阳的，它的屋顶反映着粉红色的霞光。

@@ -13,6 +13,7 @@ tags:
 ##### 词义
 - 英：/kɒˈrɑːl/； 美：/kəˈræl/
 - #词性/n  众赞歌；唱诗班；合唱队
+- #联想 [[chorale]] [[choral]] [[coral]]
 ##### 例句
 - Allein zu dir , Herr Jesu Christ , chorale setting for4 voices .
 	- 主耶稣，只是为了您，为人声4而作的众赞歌。

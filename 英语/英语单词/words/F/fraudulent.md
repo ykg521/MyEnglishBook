@@ -6,15 +6,16 @@ tags:
   - 级别/GRE
 掌握: false
 模糊: false
-间隔: 0
-重复次数: 0
-易记因子: 250
-到期日: 2025-04-30
+间隔: 1
+重复次数: 1
+易记因子: 130
+到期日: 2026-04-04
 ---
 # fraudulent
 ##### 词义
 - 英：/ˈfrɔːdjələnt/； 美：/ˈfrɔːdʒələnt/
 - #词性/adj  欺诈的；欺骗的
+- #变形 [[fraud]] [[fraudulent]]
 ##### 例句
 - They got the information by fraudulent means .
 	- 他们用欺骗的手段获取了该情报。

@@ -4,15 +4,16 @@ tags:
   - 级别/高考四级
 掌握: false
 模糊: false
-间隔: 0
-重复次数: 0
-易记因子: 250
-到期日: 2025-04-30
+间隔: 1
+重复次数: 1
+易记因子: 172
+到期日: 2026-04-10
 ---
 # rugby
 ##### 词义
 - 英：/ˈrʌɡbi/； 美：/ˈrʌɡbi/
 - #词性/n  橄榄球；橄榄球运动
+- #联想 [[rug]] [[rugby]]
 ##### 例句
 - The next Rugby World Cup will take place in three years ' time .
 	- 下一届橄榄球世界杯赛将于三年后举行。.

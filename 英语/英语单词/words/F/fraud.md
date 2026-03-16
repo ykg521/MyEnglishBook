@@ -8,15 +8,16 @@ tags:
   - 级别/GRE
 掌握: false
 模糊: false
-间隔: 0
-重复次数: 0
-易记因子: 250
-到期日: 2025-04-30
+间隔: 1
+重复次数: 1
+易记因子: 260
+到期日: 2026-03-26
 ---
 # fraud
 ##### 词义
 - 英：/frɔːd/； 美：/frɔːd/
 - #词性/n  欺诈；骗子；欺诈罪；冒牌货；伪劣品；行骗的人
+- #变形 [[fraud]] [[fraudulent]]
 ##### 例句
 - This is not the first time he has been investigated by the police for fraud .
 	- 这不是警方第一次调查他是否有欺诈行为。

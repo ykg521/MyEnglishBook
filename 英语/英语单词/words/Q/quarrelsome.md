@@ -4,15 +4,16 @@ tags:
   - 级别/高考四级
 掌握: false
 模糊: false
-间隔: 0
+间隔: 1
 重复次数: 0
-易记因子: 250
-到期日: 2025-04-30
+易记因子: 130
+到期日: 2026-04-17
 ---
 # quarrelsome
 ##### 词义
 - 英：/ˈkwɒrəlsəm/； 美：/ˈkwɑːrəlsəm/
 - #词性/adj  爱争吵的；好口角的
+- #联想 [[quarrel]] [[quarrelsome]]
 ##### 例句
 - They 've got very quarrelsome kids , as I remember .
 	- 我记得，他们有很爱争吵的孩子。

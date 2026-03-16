@@ -5,10 +5,10 @@ tags:
   - 级别/托福
 掌握: false
 模糊: false
-间隔: 0
-重复次数: 0
-易记因子: 250
-到期日: 2025-04-30
+间隔: 6
+重复次数: 2
+易记因子: 168
+到期日: 2026-04-07
 ---
 # magma
 ##### 词义
@@ -23,3 +23,21 @@ tags:
 	- 包体为部分熔融形成寄主花岗岩岩浆的源区岩石残余。
 ##### 形态
 - #形态/word_pl magmata
+
+##### 词根
+→来自希腊语magma,油膏，软膏，来自mag,揉，捏，词源同make,massage.引申词义岩浆，因其流动如软膏而得名。
+
+##### 近义词
+n. rock, stone
+##### 联想词
+lava火山岩浆;
+volcanic火山的;
+volcano火山;
+molten熔化的;
+tectonic构造的;
+subsurface地下的;
+sedimentary沉积的;
+eruption爆发，喷发;
+crust面包皮;
+geothermal地热的;
+geologic地质的;

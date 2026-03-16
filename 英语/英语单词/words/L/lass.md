@@ -4,15 +4,16 @@ tags:
   - 级别/六级
 掌握: false
 模糊: false
-间隔: 0
-重复次数: 0
-易记因子: 250
-到期日: 2025-04-30
+间隔: 1
+重复次数: 1
+易记因子: 140
+到期日: 2026-04-10
 ---
 # lass
 ##### 词义
 - 英：/læs/； 美：/læs/
 - #词性/n  少女；女孩；年轻女子
+- #联想 [[lass]] [[lady]] [[lasso]]
 ##### 例句
 - Kath 's a good lass & she always brings me my breakfast in bed .
 	- 凯西是个好女孩&总把早餐送到我床上。

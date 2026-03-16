@@ -6,15 +6,16 @@ tags:
   - 级别/雅思
 掌握: false
 模糊: false
-间隔: 0
-重复次数: 0
-易记因子: 250
-到期日: 2025-04-30
+间隔: 1
+重复次数: 1
+易记因子: 236
+到期日: 2026-04-04
 ---
 # scrutiny
 ##### 词义
 - 英：/ˈskruːtəni/； 美：/ˈskruːtəni/
 - #词性/n  仔细检查；认真彻底的审查
+- #联想 [[scrutinise]] [[scrutinize]] [[scrutiny]] [[scrupulous]]
 ##### 例句
 - They have opened their methods and data to scrutiny and invited independent measurements .
 	- 他们公开了他们的研究方法和数据供人们仔细检查，并鼓励他人的独立实验。

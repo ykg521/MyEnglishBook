@@ -13,6 +13,7 @@ tags:
 ##### 词义
 - 英：/ˈtɒdlə(r)/； 美：/ˈtɑːdlər/
 - #词性/n  蹒跚学步的孩子；刚学会走路的孩子；学步的儿童
+- #联想 [[topple]] [[toddle]] [[toddler]]
 ##### 例句
 - If snakes strike terror in your toddler 's heart , he might still grow to be brave .
 	- 如果你那蹒跚学步的孩子对蛇感到害怕，别担心，他会变得更勇敢些的。

@@ -11,6 +11,7 @@ tags:
 ---
 # abecedarian
 ##### 词义
+- 英 /ˌeɪbiːsiː'deərɪən/ 美 /ˌebɪsɪ'dɛrɪən/
 - #词性/n  初学者；启蒙老师
 - #词性/adj  字母的；初步的
 ##### 例句
@@ -20,3 +21,9 @@ tags:
 	- 制作站群，对搜索引擎优化的初学者而言站群是非常复杂的。
 - The article does an abecedarian analysis with respect to this one problem .
 	- 本文就这一问题做一个初步的分析。
+
+##### 近义词
+n. novice, beginner, tyro, tiro, initiate, sect, religious sect
+adj. alphabetic, alphabetical
+##### 反义词
+n. analphabetic

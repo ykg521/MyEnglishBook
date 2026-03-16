@@ -4,15 +4,16 @@ tags:
   - 级别/高考四级
 掌握: false
 模糊: false
-间隔: 0
-重复次数: 0
-易记因子: 250
-到期日: 2025-04-30
+间隔: 13
+重复次数: 3
+易记因子: 202
+到期日: 2026-04-29
 ---
 # scrutinise
 ##### 词义
 - #词性/vi  作仔细检查；细致观察
 - #词性/vt  细看；仔细观察或检查；核对（等于 scrutinize）
+- #联想 [[scrutinise]] [[scrutinize]] [[scrutiny]] [[scrupulous]]
 ##### 例句
 - Regulators should scrutinise the form these new exchanges take .
 	- 监管机构应密切审查这些新交易所采取的形式。

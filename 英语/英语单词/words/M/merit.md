@@ -4,16 +4,17 @@ tags:
   - 级别/高考四级
 掌握: false
 模糊: false
-间隔: 0
-重复次数: 0
-易记因子: 250
-到期日: 2025-04-30
+间隔: 1
+重复次数: 1
+易记因子: 204
+到期日: 2026-04-11
 ---
 # merit
 ##### 词义
 - 英：/ˈmerɪt/； 美：/ˈmerɪt/
 - #词性/n  优点；价值；功绩；长处；(学校或大学考试或作业的)良好；美德；值得赞扬(或奖励、钦佩)的特点
 - #词性/vt  应得；值得
+- #联想 [[merit]] [[demerit]] [[merited]] [[meritorious]]
 ##### 例句
 - This method possesses the merit of simple calculation and high accuracy .
 	- 此方法具有计算简单、精度较高的优点，且适用于变截面结构的求解。

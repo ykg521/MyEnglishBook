@@ -6,15 +6,16 @@ tags:
   - 级别/GRE
 掌握: false
 模糊: false
-间隔: 0
-重复次数: 0
-易记因子: 250
-到期日: 2025-04-30
+间隔: 1
+重复次数: 1
+易记因子: 236
+到期日: 2026-04-04
 ---
 # scrutinize
 ##### 词义
 - 英：/ˈskruːtənaɪz/； 美：/ˈskruːtənaɪz/
 - #词性/vt  仔细检查；仔细查看；认真检查；细致审查
+- #联想 [[scrutinise]] [[scrutinize]] [[scrutiny]] [[scrupulous]]
 ##### 例句
 - We scrutinize the crime scene , collect the evidence recreate what happened without ever having been there .
 	- 我们仔细检查犯罪现场，收集证据并重建犯罪过程。

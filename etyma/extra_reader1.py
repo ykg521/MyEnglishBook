@@ -1,0 +1,83 @@
+from bs4 import BeautifulSoup
+from bs4 import Tag
+
+html_content = '''
+<head> <link href="colcobuildstyle.css" rel="stylesheet" type="text/css" /> <link href="colcobuildstyle_upgrade.css" rel="stylesheet" type="text/css" /> <link href="colcobuildstyle_switch.css" rel="stylesheet" type="text/css" /> <link href="colcobuildstyle_show.css" rel="stylesheet" type="text/css" /> <script src="colcobuildoverhaul_switch.js" charset="utf-8" type="text/javascript" language="javascript"></script> <script src="colcobuildoverhaul_config.ini" charset="utf-8" type="text/javascript" language="javascript"></script> </head> <div class="collinsbody"> <a name="cobuild_6170706c65"></a><div class="word_entry"><span class="word_key">apple</span><div class="word-frequency-img" title="In Common Usage. apple is one of the 10000 most commonly used words in the Collins dictionary"><span class="level level1 roundRed"></span><span class="level level2 roundRed"></span><span class="level level3 roundRed"></span><span class="level level4 "></span><span class="level level5 "></span></div><span class="pron"><a addr="/sounds/0/022/02214/02214.mp3" href="sound://COLmp3/02214.mp3"> <span class="pron type_uk"><span class="hi rend-u">æ</span>p<span class="hi rend-sup">ə</span>l </span> <span class="icon-speak-uk"></span></a> <a addr="/sounds/e/en_/en_us/en_us_apple.mp3" href="sound://COLmp3/en_us_apple.mp3"> <span class="pron type_us">ˈæpəl </span> <span class="icon-speak-us"></span></a> </span><div class="form_inflected"><span class="form inflected_forms type-infl"><span class="var">Word forms: </span> <span class="lbl type-gram">plural</span> <a addr="/sounds/0/022/02218/02218.mp3" class="orth" href="sound://COLmp3/02218.mp3" title="plural"> apples<span class="icon-speak-form"></span></a></span></div></div><div name="collins_cobuild_6170706c65"> <div class="tab_content tab_content_tab_3" id="dict_tab_3" style="display:block"> <div class="part_main"> <div class="collins_content"> <div class="collins_en_cn example"> <div class="caption hide_cn"> <a class="anchor" name="apple_1"></a><span class="num">1</span> <span class="st" title="可变名词">N-VAR </span> <span class="def_cn cn_before"><span class="chinese-text">苹果</span></span> An <b>apple</b> is a round fruit with smooth green, yellow, or red skin and firm white flesh. <span class="def_cn cn_after"><span class="chinese-text">苹果</span></span></div> <ul> <li> <p>I want an <span class="text_blue">apple</span>. <a class="tts_button"> </a></p> <p><span class="chinese-text">我想要一个苹果。</span></p> </li> <li> <p>...2kg cooking <span class="text_blue">apples</span>. <a class="tts_button"> </a></p> <p><span class="chinese-text">两公斤烹调用的苹果</span></p> </li> <li> <p>...his ongoing search for the finest varieties of <span class="text_blue">apple</span>. <a class="tts_button"> </a></p> <p><span class="chinese-text">他对最优种苹果坚持不懈的寻找</span></p> </li> <li> <p>...a large garden with <span class="text_blue">apple</span> trees in it. <a class="tts_button"> </a></p> <p><span class="chinese-text">种着苹果树的大果园</span></p> </li> </ul> </div><div class="collins_en_cn example"><div class="caption hide_cn"><a class="anchor" name="apple_2"></a><span class="num">2</span><span class="st" style="font-weight:bold;">See also:</span><b class="text_blue"><a class="explain" href="entry://Adam's apple">Adam's apple</a></b>&nbsp; <b class="text_blue"><a class="explain" href="entry://Big Apple">Big Apple</a></b>&nbsp; <b class="text_blue"><a class="explain" href="entry://crab apple">crab apple</a></b>&nbsp; </div></div> <div class="collins_en_cn example"> <div class="caption hide_cn"> <a class="anchor" name="apple_3"></a><span class="num">3</span> <span class="st" title="短语">PHRASE </span> <span class="def_cn cn_before"><span class="chinese-text">心肝宝贝；掌上明珠</span></span> If you say that someone is <b>the apple of</b> your <b>eye</b>, you mean that they are very important to you and you are extremely fond of them. <span class="def_cn cn_after"><span class="chinese-text">心肝宝贝；掌上明珠</span></span></div> <ul> <li> <p>Penny's only son was the <span class="text_blue">apple</span> of her eye. <a class="tts_button"> </a></p> <p><span class="chinese-text">彭妮的独子是她的心肝宝贝。</span></p> </li> </ul> <div class="synonym"><b>SYN </b><span class="form"><a class="ref explain" href="entry://favourite">favourite</a></span>, <span class="form"><a class="ref explain" href="entry://pick">pick</a></span>, <span class="form"><a class="ref explain" href="entry://choice">choice</a></span>, <span class="form"><a class="ref explain" href="entry://dear">dear</a></span> </div></div> <div class="collins_en_cn addon trend folded"><div class="caption"><div class="cc_addon_foldButton"><div class="vline"></div><div class="hline"></div></div><div class="cc_addon_text">Trends of <b>apple</b></div></div><div class="trendContent"><div class="trendContainer"><div class="trendTitle"><span class="title">View usage for:</span><span class="select all">All years</span><span class="select 10"><span class="screenWider">Last </span>10 years</span><span class="select 50 selected"><span class="screenWider">Last </span>50 years</span><span class="select 100"><span class="screenWider">Last </span>100 years</span><span class="select 300"><span class="screenWider">Last </span>300 years</span></div><div class="trendChart" data-frequencydata="299:25|298:37|297:22|295:34|292:45|290:41|289:20|288:14|287:26|286:14|285:19|283:127|282:109|281:52|280:19|279:29|278:49|275:259|274:51|273:89|272:58|271:142|270:45|269:74|268:180|267:35|266:39|265:17|264:159|263:205|262:33|261:205|260:107|259:164|258:93|257:73|256:161|255:97|254:204|253:162|252:195|251:199|250:141|249:102|248:221|247:174|246:118|245:160|244:193|243:287|242:170|241:305|240:306|239:206|238:192|237:234|236:215|235:301|234:214|233:197|232:292|231:276|230:220|229:200|228:234|227:193|226:213|225:189|224:173|223:209|222:198|221:181|220:190|219:181|218:267|217:154|216:249|215:304|214:252|213:271|212:304|211:194|210:275|209:253|208:227|207:189|206:213|205:261|204:195|203:242|202:200|201:214|200:183|199:234|198:221|197:192|196:180|195:211|194:156|193:212|192:220|191:184|190:175|189:241|188:178|187:250|186:180|185:204|184:266|183:225|182:251|181:193|180:202|179:199|178:214|177:286|176:223|175:195|174:229|173:235|172:193|171:203|170:166|169:242|168:194|167:197|166:227|165:203|164:214|163:171|162:207|161:245|160:208|159:256|158:233|157:228|156:280|155:226|154:243|153:236|152:243|151:235|150:240|149:246|148:261|147:227|146:233|145:245|144:244|143:251|142:269|141:253|140:249|139:230|138:250|137:257|136:281|135:240|134:244|133:235|132:239|131:235|130:233|129:238|128:257|127:231|126:237|125:225|124:285|123:249|122:232|121:231|120:264|119:251|118:221|117:225|116:255|115:257|114:233|113:224|112:223|111:240|110:214|109:218|108:237|107:261|106:222|105:236|104:230|103:230|102:233|101:226|100:221|99:244|98:235|97:207|96:225|95:243|94:245|93:218|92:222|91:209|90:206|89:239|88:236|87:230|86:252|85:259|84:263|83:230|82:237|81:220|80:235|79:251|78:240|77:261|76:254|75:255|74:253|73:230|72:296|71:271|70:231|69:264|68:244|67:208|66:258|65:274|64:288|63:260|62:258|61:266|60:262|59:251|58:253|57:261|56:224|55:247|54:244|53:283|52:236|51:216|50:234|49:227|48:235|47:262|46:213|45:228|44:229|43:215|42:212|41:232|40:234|39:243|38:225|37:201|36:213|35:203|34:238|33:223|32:225|31:213|30:210|29:210|28:190|27:194|26:233|25:199|24:204|23:198|22:181|21:192|20:159|19:191|18:188|17:185|16:190|15:172|14:194|13:178|12:185|11:189|10:180|9:179|8:169|7:202|6:204|5:202|4:217|3:185|2:202|1:179|0:169"></div></div></div></div><div class="collins_en_cn image"> <div class="caption caption-image"> <span class="image-text">Image of <b>apple</b> </span> </div> <img class="word-image-small" src="file://COLImg/apple_158989157.jpg" width="250"/> <div id="image-show"> <div id="image-box"> <img class="modal-content" id="word-image-full" src="file://COLImg/apple_158989157.jpg"/> <div id="image-caption"><div id="image-close">×</div><span>Image of <b>apple</b></span></div> </div> </div> </div> </div> </div> </div> </div> </div> <span class="eudicbugworkround"> </span><div id="debugiPhone"></div>
+'''
+
+# 解析HTML内容
+soup = BeautifulSoup(html_content, 'html.parser')
+
+# 查找所有包含定义的 caption 标签
+captions = soup.find_all('div', {'class': 'caption hide_cn'})
+
+for caption in captions:
+    # 查找词性标签
+    st_tag = caption.find('span', {'class': 'st'})
+    if st_tag:
+        # 提取词性 (e.g., N-VAR, PHRASE)
+        word_type = st_tag.get_text(strip=True)
+        
+        # 查找中文释义 (第一个)
+        first_chinese_span = caption.find('span', {'class': 'def_cn cn_before'})
+        if first_chinese_span:
+            chinese_def = first_chinese_span.find('span', {'class': 'chinese-text'}).get_text(strip=True)
+        else:
+            # 如果没有cn_before，可能在after里，或者结构不同
+            chinese_def = ""
+        
+        # 提取整行的文本内容，并移除所有内部标签（如<b>, <a>等）以获得纯净的文本
+        # 我们需要复制一份caption对象来操作，以免影响原soup
+        caption_text_clone = BeautifulSoup(str(caption), 'html.parser')
+        
+        # 移除所有标签，只保留文本
+        for tag in caption_text_clone.find_all():
+            if tag.name not in ['br']:  # 保留换行标签，如果有的话
+                tag.unwrap()
+        
+        # 获取清理后的纯文本
+        full_text = caption_text_clone.get_text(separator=' ', strip=True)
+        
+        # 我们的目标是从完整文本中分离出 "类型", "中文", "英文定义" 部分
+        # 一种更可靠的方法是，从找到的元素位置开始分割
+        # 找到英文定义部分：从中文标签后开始，到下一个中文标签前结束
+        
+        # 为了更精确，我们直接获取caption下的所有文本节点
+        parts = []
+        for element in caption.children:
+            if hasattr(element, 'name') and element.name == 'span':
+                # 如果是span，获取其文本
+                if 'st' in element.get('class', []) or 'def_cn' in element.get('class', []):
+                    parts.append(element.get_text(strip=True))
+            elif hasattr(element, 'strip'):  # 如果是字符串节点
+                if isinstance(element, Tag):
+                    stripped_text = element.get_text(strip=True)
+                else:
+                    stripped_text = element.strip()
+                if stripped_text:
+                    parts.append(stripped_text)
+        
+        # 组合文本，通常顺序是 [序号, 词性, 中文, 英文定义...]
+        # 我们可以根据已知的词性和中文来截取英文部分
+        combined_text = ' '.join(parts)
+        
+        # 从combined_text中，我们可以找到中文的位置，然后提取其后的英文部分
+        # 为了简化，我们直接使用BeautifulSoup的get_text方法，但排除掉特定的span
+        # 重新构建一个不含中文span的文本
+        
+        # 创建一个副本用于处理
+        caption_for_en_def = BeautifulSoup(str(caption), 'html.parser')
+        # 删除包含中文的span
+        for span in caption_for_en_def.find_all('span', {'class': 'def_cn'}):
+            span.decompose() # 彻底删除该标签及其内容
+        
+        # 现在获取剩余的文本，这就是英文定义部分
+        english_def_part = caption_for_en_def.get_text(separator=' ', strip=True)
+        # 清理掉序号、词性等部分
+        import re
+        # 移除开头的数字和词性标注
+        cleaned_en_def = re.sub(r'^\d+\s*', '', english_def_part) # 移除开头的数字
+        cleaned_en_def = re.sub(rf'{re.escape(word_type)}\s*', '', cleaned_en_def, count=1) # 移除第一个出现的词性
+        cleaned_en_def = cleaned_en_def.strip()
+        
+        print(f"{word_type} {chinese_def} {cleaned_en_def}")

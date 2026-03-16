@@ -6,15 +6,16 @@ tags:
   - 级别/GRE
 掌握: false
 模糊: false
-间隔: 0
+间隔: 1
 重复次数: 0
-易记因子: 250
-到期日: 2025-04-30
+易记因子: 164
+到期日: 2026-04-11
 ---
 # scrupulous
 ##### 词义
 - 英：/ˈskruːpjələs/； 美：/ˈskruːpjələs/
 - #词性/adj  一丝不苟的；仔细的；细致的；审慎正直的；恪守道德规范的
+- #联想 [[scrutinise]] [[scrutinize]] [[scrutiny]] [[scrupulous]]
 ##### 例句
 - In these three chapters , scrupulous analysis will be given to show how their dissimilar characters have led them to set on different life paths .
 	- 这三章将会呈现细致的分析，显示姐妹俩的性格如何引导她们走上不同的人生轨道。
